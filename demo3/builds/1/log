@@ -1,0 +1,12 @@
+Started by user [8mha:////4LkO1dhEhmLmyz67SoacDhA82L7qSX4eHWJKUD/k1sETAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZe/dLi1CL9xOKM8sS8TACmaXjgwgAAAA==[0mAshwani Rawat
+Running as SYSTEM
+Building in workspace C:\Users\Ashwani R-3309\.jenkins\jobs\demo3\workspace
+[workspace] $ cmd /c call C:\Users\ASHWAN~1\AppData\Local\Temp\jenkins6505413779723528699.bat
+
+C:\Users\Ashwani R-3309\.jenkins\jobs\demo3\workspace>shuhdfudfyu
+'shuhdfudfyu' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Ashwani R-3309\.jenkins\jobs\demo3\workspace>exit 9009 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

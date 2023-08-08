@@ -1,0 +1,21 @@
+Started by user [8mha:////4LkO1dhEhmLmyz67SoacDhA82L7qSX4eHWJKUD/k1sETAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZe/dLi1CL9xOKM8sS8TACmaXjgwgAAAA==[0mAshwani Rawat
+Running as SYSTEM
+Building in workspace C:\Users\Ashwani R-3309\.jenkins\jobs\demo3\workspace
+[workspace] $ cmd /c call C:\Users\ASHWAN~1\AppData\Local\Temp\jenkins254739581566266098.bat
+
+C:\Users\Ashwani R-3309\.jenkins\jobs\demo3\workspace>def even(): 
+'def' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Ashwani R-3309\.jenkins\jobs\demo3\workspace>i = 1 
+'i' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Ashwani R-3309\.jenkins\jobs\demo3\workspace>while True: 
+'while' is not recognized as an internal or external command,
+operable program or batch file.
+The syntax of the command is incorrect.
+
+C:\Users\Ashwani R-3309\.jenkins\jobs\demo3\workspace>        if i==0:
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

@@ -1,0 +1,10 @@
+Started by timer
+Running as SYSTEM
+Building in workspace C:\Users\Ashwani R-3309\.jenkins\jobs\Jenkins_demo\workspace
+[workspace] $ cmd /c call C:\Users\ASHWAN~1\AppData\Local\Temp\jenkins1303335513836481883.bat
+
+C:\Users\Ashwani R-3309\.jenkins\jobs\Jenkins_demo\workspace>echo "Hello this is my first Jenkins demo : 08-08-2023 : 10:11:42.81" 
+"Hello this is my first Jenkins demo : 08-08-2023 : 10:11:42.81"
+
+C:\Users\Ashwani R-3309\.jenkins\jobs\Jenkins_demo\workspace>exit 0 
+Finished: SUCCESS

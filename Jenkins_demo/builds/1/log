@@ -1,0 +1,10 @@
+Started by user [8mha:////4LkO1dhEhmLmyz67SoacDhA82L7qSX4eHWJKUD/k1sETAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZe/dLi1CL9xOKM8sS8TACmaXjgwgAAAA==[0mAshwani Rawat
+Running as SYSTEM
+Building in workspace C:\Users\Ashwani R-3309\.jenkins\jobs\Jenkins_demo\workspace
+[workspace] $ cmd /c call C:\Users\ASHWAN~1\AppData\Local\Temp\jenkins1811761116091178663.bat
+
+C:\Users\Ashwani R-3309\.jenkins\jobs\Jenkins_demo\workspace>echo "Hello this is my first Jenkins demo : 07-08-2023 : 16:54:33.09" 
+"Hello this is my first Jenkins demo : 07-08-2023 : 16:54:33.09"
+
+C:\Users\Ashwani R-3309\.jenkins\jobs\Jenkins_demo\workspace>exit 0 
+Finished: SUCCESS
